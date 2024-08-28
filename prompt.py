@@ -81,8 +81,8 @@ while t:
     logging.info(f"user --> {user_input}")
     
     response = chain.invoke(user_input)
-    if response['history'] != None:
-        logging.info(f".bot --> {response["history"]}")
+    # if response['history'] != None:
+    #     logging.info(f".bot --> {response["history"]}")
 
     # run_similarity_search(user_input)
     ### response = conversational_chain.run(user_input)
