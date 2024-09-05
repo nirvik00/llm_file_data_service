@@ -8,6 +8,9 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def get_pdf_text(pdf_docs):
     text = ""
@@ -30,13 +33,13 @@ def get_text_chunks(text):
 
 
 def get_vectorstore(text_chunks):
-    embeddings = OpenAIEmbeddings(openai_api_key='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')
+    embeddings = OpenAIEmbeddings()
     vectorstore = FAISS.from_texts(texts=text_chunks, embedding=embeddings)
     return vectorstore
 
 
 def get_conversation_chain(vectorstore):
-    llm = ChatOpenAI(openai_api_key='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')
+    llm = ChatOpenAI()
     memory = ConversationBufferMemory(memory_key='chat_history', return_messages=True)
     conversation_chain = ConversationalRetrievalChain.from_llm(
         llm=llm,
