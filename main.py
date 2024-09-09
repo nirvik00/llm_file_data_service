@@ -29,9 +29,15 @@ def update_worksheet_entry(user_question="null", bot_answer="null"):
     d = datetime.datetime.now()
     dt = f'{d.strftime("%I")}:{d.strftime("%M")} {d.strftime("%p")} {d.strftime("%B")} {d.strftime("%Y")}'
 
-    
+    # using getlogin() returning username
+    login="username"
+    try:
+        login = os.getlogin()
+        print(login)
+    except:
+        login="null"
 
-    x={"time": [dt], "user_question":[user_question] , "bot_answer":[bot_answer], "filenames":[st.session_state.filenames]}
+    x={"time": [dt], "login": login, "user_question":[user_question] , "bot_answer":[bot_answer], "filenames":[st.session_state.filenames]}
     with open("info.json", "r+") as f:
         file_data= json.load(f)
         file_data["data"].append(x)
@@ -44,7 +50,7 @@ def update_worksheet_entry(user_question="null", bot_answer="null"):
     client = gspread.authorize(creds)
     spreadsheet = client.open_by_key(st.secrets["sheet_id"])
     sheet = spreadsheet.sheet1
-    x=[dt, user_question , bot_answer, st.session_state.filenames]
+    x=[dt, login, user_question , bot_answer, st.session_state.filenames]
     sheet.append_row(x)
 
 
@@ -104,7 +110,7 @@ def handle_userinput(user_question):
 
 
 def run_main():
-    st.set_page_config(page_title="Perkins&Will", page_icon=":sparkles:")
+    st.set_page_config(page_title="Perkins&Will", page_icon=":flag-pw:")
     st.write(css, unsafe_allow_html=True)
     if "conversation" not in st.session_state:
         st.session_state.conversation = None
