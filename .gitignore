@@ -9,7 +9,7 @@ __pycache__/
 .venv/
 .env
 selected_pdf_data/
-
+credentials.json
 
 # Distribution / packaging
 .Python
