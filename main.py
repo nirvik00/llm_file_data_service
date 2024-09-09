@@ -32,7 +32,7 @@ def update_worksheet_entry(user_question="null", bot_answer="null"):
     # using getlogin() returning username
     login="username"
     try:
-        login = os.getlogin()
+        login = os.environ.get('USERNAME')
         print(login)
     except:
         login="null"
