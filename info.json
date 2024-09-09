@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "time": "05:47 PM September 2024",
+            "user_question": "summarize data?",
+            "bot_answer": "The provided data seems to be a list of construction materials and quantities for a project. It includes measurements such as length, width, and depth, as well as specific details like weight per cubic yard and the number of linear feet for different types of walls and barriers. Additionally, there are items related to drilling, epoxy, welding rebar, and steel encasements.",
+            "filenames": "UCH - PSI Takeoff.pdf"
+        },
+        {
+            "time": "05:47 PM September 2024",
+            "user_question": "what else can you tell me?",
+            "bot_answer": "I'm sorry, but based on the context you provided, I don't have any additional information to share. If you have specific questions or need clarification on any of the items listed, please feel free to ask!",
+            "filenames": "UCH - PSI Takeoff.pdf"
+        },
+        {
+            "time": "05:47 PM September 2024",
+            "user_question": "what buildings are provided?",
+            "bot_answer": "I don't have enough information to determine which specific buildings are provided based on the context provided.",
+            "filenames": "UCH - PSI Takeoff.pdf"
+        },
+        {
+            "time": "05:48 PM September 2024",
+            "user_question": "list the specifications",
+            "bot_answer": "The provided data includes specifications for different types of walls with their dimensions, densities (lb/cy), linear footage (LF), and quantities (EA). It also includes instructions for drilling/epoxying dowels through footings, welding rebar at existing footings, and using steel encasements. Additionally, there is a reference to a specific project location (UCH - 100 McAllister; 1640 Broadway_Add 3 Plans) and a timestamp for when the data was last updated (4/15/2021 11:51 AM).",
+            "filenames": "UCH - PSI Takeoff.pdf"
+        },
+        {
+            "time": "05:48 PM September 2024",
+            "user_question": "list the walls ?",
+            "bot_answer": "1 - GB 12-00 W x 06-00 Dp (250 lb/cy) - 287 LF\n2 - GB 10-00 W x 06-00 Dp (200 lb/cy) - 170 LF\n3 - 35045 - 06\" Against Existing (300 lb/cy) w/ D/E 36\" O.C. - 167 LF\n6 - 35045 - 20\" Against Existing (400 lb/cy) w/ D/E 36\" O.C. - 99 LF\n7 - 35045 - 16\" New Wall (400 lb/cy) - 102 LF",
+            "filenames": "UCH - PSI Takeoff.pdf"
+        },
+        {
+            "time": "06:00 PM September 2024",
+            "user_question": "summarize data",
+            "bot_answer": "The data provided includes various types of concrete walls, steel encasements, drill/epoxy dowels, rebar welding, and specific measurements and quantities for each item. The measurements include width, depth, type of concrete, weight per cubic yard, linear footage, and number of units. The scale for takeoff is at 30%, and the location is specified as UCH - 100 McAllister on 1640 Broadway. The plans were last updated on April 15, 2021, at 11:51 AM.",
+            "filenames": "UCH - PSI Takeoff.pdf"
+        },
+        {
+            "time": "06:00 PM September 2024",
+            "user_question": "summarize data",
+            "bot_answer": "The data provided includes various types of construction items and measurements related to a construction project. The items listed include different types of walls, footings, steel encasements, drilling/epoxy work, welding rebar, etc. The measurements provided include linear feet (LF) for walls, quantity of steel encasements and drilling/epoxy work, and number of items for welding rebar. The measurements also include dimensions such as width (W), depth (Dp), and square footage (SQ) for different items.",
+            "filenames": "UCH - PSI Takeoff.pdf"
+        },
+        {
+            "time": "06:07 PM September 2024",
+            "user_question": "summarize data",
+            "bot_answer": "The data being transmitted pertains to due diligence documents for the Greystar project at 100 McAllister. The content includes two PDF files related to due diligence, a project manual, and existing floor plans. Additionally, there is a CAD file included in the transmission. The transmittal was sent by Abdelrhman Mostafa from Perkins+Will, Inc. to individuals at Greystar, specifically Mike McCone and Neil Hanlon. The purpose of the transmittal was to provide access to the due diligence set used for pricing, along with the floor plans in PDF format. John Long from Perkins+Will, Inc. was also copied on the transmission.",
+            "filenames": "Transmittal - 00005.pdf"
+        },
+        {
+            "time": "06:08 PM September 2024",
+            "user_question": "summarize data4",
+            "bot_answer": "The purpose of the transmittal of due diligence documents for the Greystar project at 100 McAllister was to provide Neil with the due diligence set that Clark used for pricing, along with a PDF copy of the existing floor plans for ease of use.",
+            "filenames": "Transmittal - 00005.pdf"
+        },
+        {
+            "time": "06:08 PM September 2024",
+            "user_question": "summarize data4444",
+            "bot_answer": "The purpose of the transmittal was to provide Neil and Mike from Greystar with due diligence documents related to the Greystar project at 100 McAllister. The documents included a PDF copy of the existing floor plans and other project-related materials for their review and use.",
+            "filenames": "Transmittal - 00005.pdf"
+        },
+        {
+            "time": "06:11 PM September 2024",
+            "user_question": "summarize data",
+            "bot_answer": "The data provided in the transmittal includes files related to due diligence for the Greystar project at 100 McAllister. The contents consist of PDF files for due diligence, project manual, existing floor plans, and a CAD file. The documents are dated November and December 2019. The purpose of the transmittal is to share these files with Mike McCone and Neil Hanlon from Greystar for their use in pricing.",
+            "filenames": "Transmittal - 00005.pdf"
+        },
+        {
+            "time": "06:12 PM September 2024",
+            "user_question": "summarize data",
+            "bot_answer": "Based on the provided information, the data pertains to the project \"GREYSTAR - 100 McAllister\" Feasibility Study. The transmittal includes an updated due diligence set for UC Hastings_100 McAllister. The purpose of the transmittal is for use via Info Exchange. Abdelrhman Mostafa from Perkins+Will, Inc. is sending the transmittal to Alicia Lloyd at Clark Construction. The transmittal contains a link to download the updated architectural sheets with markups from a page turn on 11/15. It mentions that the structural sheets remain the same as sent on 11/12. The document being sent is titled \"UCH 100 M_Due Diligence Set_2019 1125.pdf.\" The transmittal is signed off by Abdel.",
+            "filenames": "Transmittal - 00002.pdf"
+        },
+        {
+            "time": "06:13 PM September 2024",
+            "user_question": "summarize data for me?",
+            "bot_answer": "Based on the provided context, the project \"GREYSTAR - 100 McAllister\" is related to a Feasibility Study. The transmittal contains updated architectural sheets of the Due Diligence set, including markups made during a meeting on 11/15. It specifies that the structural sheets remain the same as sent on 11/12. The transmittal was sent from Abdelrhman Mostafa of Perkins+Will, Inc. to Alicia Lloyd of Clark Construction. The purpose of the transmittal was for Alicia Lloyd to download the updated architectural sheets. The description of contents includes a PDF titled \"UCH 100 M_Due Diligence Set_2019 1125.pdf\". The document was dated 11/25/2019. John Long and Abdelrhman Mostafa from Perkins+Will, Inc. were also included in the transmittal.",
+            "filenames": "Transmittal - 00002.pdf"
+        },
+        {
+            "time": "06:13 PM September 2024",
+            "user_question": "summarize data",
+            "bot_answer": "The transmittal is from Abdelrhman Mostafa at Perkins+Will, Inc. to individuals at Greystar regarding changes in plans and providing links to drawings used for pricing. The contents include a Due Diligence Set PDF, a Project Manual PDF, a CAD file, and Existing Plans PDF. John Long from Perkins+Will, Inc. is also included in the copies.",
+            "filenames": "Transmittal - 00006.pdf"
+        },
+        {
+            "time": "06:13 PM September 2024",
+            "user_question": "summarize data",
+            "bot_answer": "I'm sorry, but I cannot summarize data based on the provided context.",
+            "filenames": "Transmittal - 00003.pdf"
+        },
+        {
+            "time": "06:14 PM September 2024",
+            "user_question": "summarize data for me?",
+            "bot_answer": "The data is a transmittal document regarding the UC Hastings project at 100 McAllister. It includes information about the RFP design document that John mentioned in his email to Alicia Lloyd from Clark Construction. The document provides details about the file to be downloaded and the individuals copied on this transmittal.",
+            "filenames": "Transmittal - 00003.pdf"
+        },
+        {
+            "time": "06:14 PM September 2024",
+            "user_question": "whats all t",
+            "bot_answer": "The data in the transmittal document mentions that the RFP design document related to the UC Hastings project at 100 McAllister is titled \"UC Hastings_RFP_11x17_FINAL.pdf\". John Long and Abdelrhman Mostafa from Perkins+Will, Inc. are involved in this communication. The document was dated 8/15/2018. The email from Abdel to Alicia Lloyd instructs her to download the RFP design document using a link provided in the email.",
+            "filenames": "Transmittal - 00003.pdf"
+        },
+        {
+            "time": "06:16 PM September 2024",
+            "user_question": "summarize data",
+            "bot_answer": "Based on the provided transmittal information, it appears that Abdelrhman Mostafa from Perkins+Will, Inc. sent a transmittal to Mike McCone and Neil Hanlon at Greystar. The purpose of the transmittal was to provide them with a due diligence set for the Greystar project at 100 McAllister. The contents of the transmission included files related to due diligence, project manuals, CAD files, and existing floor plans. Abdelrhman also mentioned that the existing floor plans were included in PDF format for ease of use. Additionally, copies of the transmittal were sent to John Long from Perkins+Will, Inc.",
+            "filenames": "Transmittal - 00005.pdf"
+        },
+        {
+            "time": "06:16 PM September 2024",
+            "user_question": "summarize data for me?",
+            "bot_answer": "The transmittal from Abdelrhman Mostafa to Mike McCone and Neil Hanlon at Greystar regarding the project at 100 McAllister includes the following data:\n\n- Abdelrhman Mostafa provided links for downloading the due diligence set that Clark used for pricing.\n- A PDF copy of the existing floor plans was included for easy reference.\n- The contents of the transmittal include a UCH 100 M Due Diligence document, a UCH 100 M Due Diligence Project Manual, and a CAD file for 100 McAllister.\n- Additional copies were sent to John Long at Perkins+Will, Inc., which indicates his involvement in the project as well.\n\nThis summary highlights the documents shared, the purpose of the transmittal, and the individuals involved in the communication.",
+            "filenames": "Transmittal - 00005.pdf"
+        },
+        {
+            "time": "06:26 PM September 2024",
+            "user_question": "summarize data",
+            "bot_answer": "The document is a transmittal from Perkins+Will, Inc. to Greystar regarding the UCH 100 McAllister feasibility study. The purpose of the transmittal is to provide due diligence information to Mike McCone and Neil Hanlon from Greystar. The contents include PDF files related to the due diligence of the project, project manual, CAD files, and existing floor plans. Abdelrhman Mostafa from Perkins+Will also offers further assistance if needed. John Long from Perkins+Will is copied on the transmittal as well.",
+            "filenames": "Transmittal - 00005.pdf"
+        },
+        {
+            "time": "06:27 PM September 2024",
+            "user_question": "summarize data",
+            "bot_answer": "The document is a transmittal related to a project called \"GREYSTAR - 100 McAllister Feas Study.\" It includes links to download due diligence sets used for pricing, along with a PDF copy of existing floor plans. The transmittal was sent from Abdelrhman Mostafa of Perkins+Will, Inc. to individuals at Greystar. The document lists the contents, which include due diligence reports, project manuals, CAD files, and existing plans. It also mentions additional recipients of the transmittal, including John Long from Perkins+Will, Inc.",
+            "filenames": "Transmittal - 00005.pdf"
+        },
+        {
+            "time": [
+                "06:28 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "I'm sorry, but I cannot summarize data based on the provided context."
+            ],
+            "filenames": [
+                "Transmittal - 00003.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:29 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "Based on the provided context, it seems that Abdelrhman Mostafa from Perkins+Will, Inc. is sending updated architectural sheets for the Due Diligence set related to the Greystar - 100 McAllister project to Alicia Lloyd at Clark Construction. The email mentions that the markups were made during a page turn on 11/15. The structural sheets remain the same as previously sent on 11/12. The content includes an updated PDF file titled \"UCH 100 M_Due Diligence Set_2019 1125.pdf.\" John Long from Perkins+Will, Inc. is also copied on the email."
+            ],
+            "filenames": [
+                "Transmittal - 00002.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:30 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data for me?"
+            ],
+            "bot_answer": [
+                "The conversation is a transmittal of an \"Updated Due Diligence Set\" for the UC Hastings project at 100 McAllister. The due diligence set includes architectural sheets with markups made during a page turn on 11/15. It mentions that the structural sheets remain the same as sent on 11/12. The document was sent on 11/25/2019 from Abdelrhman Mostafa at Perkins+Will, Inc. to Alicia Lloyd at Clark Construction. The purpose of the transmittal was for Alicia to download the updated architectural sheets."
+            ],
+            "filenames": [
+                "Transmittal - 00002.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:31 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "The data consists of a Due Diligence set for the 100 McAllister project. It includes a project manual, full set of drawings, window study, structural concept design drawings, CAD files for developed floor plans, and CAD files for existing drawings. The files are available for download via the provided links. The transmittal was sent from Abdelrhman Mostafa at Perkins+Will, Inc. to Alicia Lloyd at Clark Construction. Additional copies were sent to other individuals involved in the project."
+            ],
+            "filenames": [
+                "Transmittal - 00001.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:31 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data for me?"
+            ],
+            "bot_answer": [
+                "The data provided for the 100 McAllister project includes a Due Diligence set which consists of the following:\n- Project manual (program & MEP survey)\n- Full set of drawings & window study\n- Structural concept design drawings\n- CAD files for the developed floor plans\n- CAD files for the existing drawings\n\nThe documentation is dated 11/12/2019 and was shared between Abdelrhman Mostafa from Perkins+Will, Inc. and Alicia Lloyd from Clark Construction. It also includes additional recipients for copies of the transmittal."
+            ],
+            "filenames": [
+                "Transmittal - 00001.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:39 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "The data provided includes a transmittal document dated 12/16/2019 from Perkins+Will, Inc. regarding the project \"GREYSTAR - 100 McAllister Feas Study.\" The purpose of the transmittal is to share existing floor plans for 100 McAllister along with the historic and window replacement report with Alicia Lloyd and Mario Lio from Clark Construction. The document also lists the attachments included: \"UC Hastings Window Treatment Memo\" dated 6/7/2018 and \"UCH_100 Mc_Existing Plans\" dated 12/16/2019."
+            ],
+            "filenames": [
+                "Transmittal - 00004.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:41 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "The document is a transmittal from Abdelrhman Mostafa of Perkins+Will, Inc. to Mike McCone and Neil Hanlon of Greystar regarding the due diligence set for the Greystar project at 100 McAllister. Abdelrhman provided links for downloading the due diligence set used for pricing, including a PDF copy of existing floor plans. The contents include three files dated 11/12/2019: UCH 100 M_Due Diligence, UCH 100 M Due Diligence Project Manual, and 100 McAllister CAD. Additionally, there is a file dated 12/16/2019 for UCH_100 Mc_Existing Plans. Copies of the transmittal were sent to John Long and Abdelrhman Mostafa from Perkins+Will, Inc."
+            ],
+            "filenames": [
+                "Transmittal - 00005.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:42 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "Based on the provided content, the data includes an updated Due Diligence set for the UC Hastings 100 McAllister project. The transmittal was sent on 11/25/2019 by Abdelrhman Mostafa from Perkins+Will, Inc. to Alicia Lloyd at Clark Construction. The purpose of the transmittal was to provide Alicia with a link to download the updated Architectural sheets with markups from a page turn on 11/15. The structural sheets remain the same as previously sent on 11/12. The contents include one PDF file titled \"UCH 100 M_Due Diligence Set_2019 1125.pdf\". John Long and Abdelrhman Mostafa from Perkins+Will, Inc. were copied on the transmittal."
+            ],
+            "filenames": [
+                "Transmittal - 00002.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:45 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "Based on the information provided in the transmittal, the data includes the following items for the Greystar project at 100 McAllister:\n\n1. UCH 100 M_Due Diligence _111219.pdf\n2. UCH 100 M Due Diligence Project Manual_111219.pdf\n3. 100 McAllister_CAD.zip\n4. UCH_100 Mc_Existing Plans.pdf\n\nThese files were sent by Abdelrhman Mostafa from Perkins+Will, Inc. to Mike McCone and Neil Hanlon at Greystar. The purpose of the transmittal was to provide due diligence set information used for pricing. Additionally, Abdelrhman included a PDF copy of the existing floor plans for easy reference."
+            ],
+            "filenames": [
+                "Transmittal - 00005.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:47 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "Based on the provided context, the data consists of an updated Due Diligence set for the UC Hastings_100 McAllister project. The architectural sheets were updated with markups during a page turn on 11/15. The structural sheets remain the same as previously sent on 11/12. The document is titled \"UCH 100 M_Due Diligence Set_2019 1125.pdf\" and was sent from Abdelrhman Mostafa of Perkins+Will, Inc. to Alicia Lloyd of Clark Construction."
+            ],
+            "filenames": [
+                "Transmittal - 00002.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:48 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "Based on the provided context, the data to be summarized pertains to the UC Hastings_RFP_11x17_FINAL.pdf document. This document is related to the Greystar - 100 McAllister Feasibility Study project. Abdel Mostafa from Perkins+Will, Inc. is sending the link to Alicia Lloyd at Clark Construction for downloading the RFP design document as mentioned by John Long. The transmittal ID for this communication is 00003."
+            ],
+            "filenames": [
+                "Transmittal - 00003.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:49 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "The data provided in the transmittal includes various files related to the UCH 100 McAllister project. These files consist of due diligence sets in PDF format, a project manual, CAD drawings, and existing plans. The transmittal was sent from Abdelrhman Mostafa of Perkins+Will, Inc. to Mike McCone and Neil Hanlon of Greystar. The email mentions changes in plans and provides links to drawings used for pricing."
+            ],
+            "filenames": [
+                "Transmittal - 00006.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:49 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data for me?"
+            ],
+            "bot_answer": [
+                "The UCH 100 McAllister project involves due diligence sets and project manuals dated November 25, 2019, and November 12, 2019, respectively. There is also an existing plans document dated December 16, 2019, and a CAD file dated November 12, 2019. Abdelrhman Mostafa from Perkins+Will, Inc. sent a transmittal to individuals at Greystar on January 8, 2020, informing them that the plans had slightly changed from the drawings provided. He mentioned that the drawings Clark used for pricing are available in the links provided."
+            ],
+            "filenames": [
+                "Transmittal - 00006.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:50 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "The data provided in the context is a transmittal document related to a project called Greystar - 100 McAllister Feas Study. The purpose of the document is to inform Alicia Lloyd from Clark Construction about an RFP design document available for download. The document contains details such as the sender and recipient's contact information, the subject of the transmittal, and the description of the content being transmitted, which is an RFP design document in PDF format. The document also includes remarks from the sender, Abdel, providing a link for Alicia to access the mentioned document."
+            ],
+            "filenames": [
+                "Transmittal - 00003.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:51 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "Based on the provided transmittal information, the contents of the due diligence set for the Greystar project at 100 McAllister include:\n\n- Two PDF files dated 11/12/2019: \"UCH 100 M_Due Diligence _111219.pdf\" and \"UCH 100 M Due Diligence Project Manual_111219.pdf.\"\n- One ZIP file dated 11/12/2019: \"100 McAllister_CAD.zip.\"\n\nAdditionally, there is an extra file dated 12/16/2019: \"UCH_100 Mc_Existing Plans.pdf.\"\n\nThe transmittal was sent from Abdelrhman Mostafa at Perkins+Will, Inc. to Mike McCone and Neil Hanlon at Greystar. The email contained links for downloading the due diligence set and included a PDF copy of existing floor plans. John Long from Perkins+Will, Inc. was also copied on the email."
+            ],
+            "filenames": [
+                "Transmittal - 00005.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:52 PM September 2024"
+            ],
+            "user_question": [
+                "what buildings are provided?"
+            ],
+            "bot_answer": [
+                "The buildings provided in the context are related to the UCH 100 McAllister project. The specific buildings mentioned are:\n1. UCH 100 M_Due Diligence\n2. UCH 100 M Due Diligence Project Manual\n3. 100 McAllister CAD.zip\n\nThese are the buildings mentioned in the provided context."
+            ],
+            "filenames": [
+                "Transmittal - 00005.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:54 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "The provided data includes various measurements and quantities related to construction work, such as linear feet (LF) of different types of walls, steel encasements, and specific construction actions like drilling and welding rebar. The data also mentions specific details like depths, weights per cubic yard, and spacings."
+            ],
+            "filenames": [
+                "UCH - PSI Takeoff.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:57 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data"
+            ],
+            "bot_answer": [
+                "The data provided includes a transmittal document related to the GreyStar - 100 McAllister project. It was sent from Abdelrhman Mostafa at Perkins+Will, Inc. to Alicia Lloyd and Mario Lio at Clark Construction. The purpose of the transmittal was to provide existing floor plans for 100 McAllister, along with a historic and window replacement report. The recipients were encouraged to download the documents from a provided link and to reach out if they needed anything else."
+            ],
+            "filenames": [
+                "Transmittal - 00004.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:57 PM September 2024"
+            ],
+            "user_question": [
+                "summarize data for me?"
+            ],
+            "bot_answer": [
+                "The data provided for the GreyStar - 100 McAllister project includes a transmittal document dated December 16, 2019, from Abdelrhman Mostafa at Perkins+Will, Inc. The purpose of the transmittal is to provide Alicia Lloyd and Mario Lio at Clark Construction with a link to download existing floor plans for 100 McAllister, along with a historic and window replacement report. The contents of the transmittal include an attachment titled \"2018-06-07_UC Hastings Window Treatment Memo - Attachments.pdf\" dated June 7, 2018, and another attachment titled \"UCH_100 Mc_Existing Plans.pdf\" dated December 16, 2019. The transmittal also indicates that copies were sent to John Long and Abdelrhman Mostafa, both from Perkins+Will, Inc."
+            ],
+            "filenames": [
+                "Transmittal - 00004.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:58 PM September 2024"
+            ],
+            "user_question": [
+                "whats all this?"
+            ],
+            "bot_answer": [
+                "This context appears to be related to a meeting regarding the UC Hastings 100 McAllister Campus Housing project. It includes information about the historical background of the building, upgrades made to fire life safety systems, and details about the applicable building codes and regulations. The meeting seems to have discussed various aspects of the building, including egress requirements, smoke protection, and fire safety measures. If you have a specific question about this information, feel free to ask!"
+            ],
+            "filenames": [
+                "UCH_SFM_Pre App 1_Meeting Notes_191024.pdf"
+            ]
+        },
+        {
+            "time": [
+                "06:58 PM September 2024"
+            ],
+            "user_question": [
+                "which codes are listed?"
+            ],
+            "bot_answer": [
+                "The following codes are listed in the provided context: \n- 2019 California Historical Building Code (19 CCR \u00a73.04)\n- 2019 California Existing Building Code (CBC 101.4.7)\n- 2019 California Building Code\n- 2019 California Fire Code\n- 1921 City and County of San Francisco Building Laws\n- 1928 City and County of San Francisco Building Laws\n- 1927 Uniform Building Code (First Edition) - Not adopted in San Francisco at the time of design"
+            ],
+            "filenames": [
+                "UCH_SFM_Pre App 1_Meeting Notes_191024.pdf"
+            ]
+        }
+    ]
+}

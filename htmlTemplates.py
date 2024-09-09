@@ -37,7 +37,7 @@ bot_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://perkinswill.com/wp-content/uploads/2019/05/people_cameron-nick_01.jpg">
+         <!--<img src="https://perkinswill.com/wp-content/uploads/2019/05/people_cameron-nick_01.jpg">-->
     </div>    
     <div class="message">{{MSG}}</div>
 </div>

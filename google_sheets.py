@@ -16,7 +16,7 @@ def get_last_row(ns_worksheet):
 
 def update_worksheet_entry(ns_worksheet, user_question="-", bot_answer="x"):
     row_count = get_last_row(ns_worksheet)
-    ns_worksheet.update_cell(row_count, 1, str(row_count))
+    ns_worksheet.update_cell(row_count, 1, ns_worksheet)
     ns_worksheet.update_cell(row_count, 2, user_question)
     ns_worksheet.update_cell(row_count, 3, bot_answer)
 

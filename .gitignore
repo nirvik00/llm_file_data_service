@@ -10,6 +10,7 @@ __pycache__/
 .env
 selected_pdf_data/
 credentials.json
+.streamlit/
 
 # Distribution / packaging
 .Python
