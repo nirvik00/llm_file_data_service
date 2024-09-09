@@ -1,4 +1,7 @@
+import os.path
+
 import streamlit as st
+from streamlit_gsheets import GSheetsConnection
 
 from PyPDF2 import PdfReader
 from langchain.text_splitter import CharacterTextSplitter
